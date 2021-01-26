@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7485adc1-51bc-464d-8ab5-7e0aa3284b8e" name="Default Changelist" comment="" />
+    <list default="true" id="7485adc1-51bc-464d-8ab5-7e0aa3284b8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Salary Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Salary Prediction.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
