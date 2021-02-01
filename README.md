@@ -1,7 +1,8 @@
 # Salary Prediction Data Science - Machine Learning Model.
 
-This Data Science model utilizes a dataset with one million features on job attributes (industry, degree, YoE, etc.) and trains the ML algorithms to accurately predict the salary of new datapoints. 
+This project uses Jupyter Notebook for the Machine Learning algorithms and Pythonic code, Tableau for additional visualization and GitHbu for version control.
 
-It was written in Jupyter Notebook (Anaconda) and utilizes a variety of libraries, from Pandas, Numpy, to Machine Learning ones such as Sklearn and Linear Regression, Decision Tree, Random Forest, Gradient Boosting.
+Open the "Salary PredictionPB.pdf" file for details and a quick project summary (opens in browser when you click on it).
+Open the "Salary Prediction.ipynb" file for extended detail on coding, libraries used, fucntions and classes and ML models performance (opens in browser when you click on it).
 
-The notebook is well documented throughout the code for ease of reading. A summary will be added to this read.me upon the final iteration of this data science project as it's added to my portfolio.
+Thanks!
