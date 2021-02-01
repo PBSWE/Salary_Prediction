@@ -1,6 +1,6 @@
 # Salary Prediction Data Science - Machine Learning Model.
 
-This project uses Jupyter Notebook for the Machine Learning algorithms and Pythonic code, Tableau for additional visualization and GitHbu for version control.
+This project uses Jupyter Notebook for the Machine Learning algorithms and Pythonic code, Tableau for additional visualization and GitHub for version control.
 
 Open the "Salary PredictionPB.pdf" file for details and a quick project summary (opens in browser when you click on it).
 
